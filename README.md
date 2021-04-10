@@ -7,7 +7,7 @@ QR Code Generator is built using Python, this is not perfect so I hope you can c
 -   Clone this repository
 
     ```bash
-    git clone
+    git clone https://github.com/kdimas12/qrcode-generator.git
     ```
 
 -   Install dependencies we need
